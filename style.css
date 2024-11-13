@@ -52,7 +52,7 @@
       }
       
       #playButton {
-        background-color: #b31b4e;
+        background-color: #b3636b;
         color:  #fff;
         font-weight: 600;
         font-size: 1.2rem;
@@ -99,7 +99,7 @@
         height: 50px;
         color: #fff;
         border-radius: 50%;
-        background-color: #7E1035;
+        background-color: #B57C82;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -149,7 +149,7 @@
         align-items: center;
         justify-content: center;
         flex-direction: column;
-        background-color: #7E1035;
+        background-color: #B57C82;
         text-align: center;
         width: 100%;
         color: #fff;
@@ -210,7 +210,7 @@
     .fa-gift{
         font-size: 3rem;
         margin: 0.5rem;
-        color: #7E1035;
+        color: #B57C82;
     }
 
     .gift p{
@@ -240,7 +240,7 @@
     .fa-map-location-dot{
         font-size: 3rem;
         margin: 1rem;
-        color: #7E1035;
+        color: #B57C82;
     }
 
     .ubicacion p {
@@ -249,13 +249,13 @@
     }
 
     .btn-custom{
-        background-color: #7E1035;
+        background-color: #B57C82;
         color: #fff
     }
 
     .asistencia{
         margin-top: 2rem;
-        background-color: #7E1035;
+        background-color: #B57C82;
         color: #fff;
         display: flex;
         align-items: center;
@@ -278,7 +278,7 @@
 
     .asistencia .btn-custom{
         background-color: #fff;
-        color: #7E1035;
+        color: #000;
     }
 
     .final{
